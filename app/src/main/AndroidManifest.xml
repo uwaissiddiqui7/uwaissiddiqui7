@@ -1,0 +1,35 @@
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	package="com.batchrename.bulkmultiplefile.renamer">
+	<uses-permission	android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+	<uses-permission	android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<application
+		android:requestLegacyExternalStorage="true"
+		android:allowBackup="true"
+		android:label="batch renamer"
+		android:icon="@drawable/app_icon"
+		android:largeHeap="true"
+		android:theme="@style/AppTheme"
+		tools:ignore="ExtraText"
+		tools:targetApi="p">
+
+		<activity
+			android:name=".MainActivity"
+			android:configChanges="orientation|screenSize"
+			android:screenOrientation="portrait">
+			<intent-filter>
+				<action	android:name="android.intent.action.MAIN"/>
+				<category	android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity>
+		<activity
+			android:name=".PickerActivity"
+			android:configChanges="orientation|screenSize"
+			android:screenOrientation="portrait"/>
+		<uses-library
+			android:name="org.apache.http.legacy"
+			android:required="false"/>
+
+	</application>
+</manifest>

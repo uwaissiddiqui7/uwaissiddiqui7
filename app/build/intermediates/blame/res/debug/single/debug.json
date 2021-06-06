@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_insert_drive_file_black.png.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_drive_file_black.png"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\layout_cview.xml.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\layout\\cview.xml"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\layout_picker.xml.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\layout\\picker.xml"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\layout_get.xml.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\layout\\get.xml"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_folder_black.png.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_black.png"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\layout_list.xml.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "E:\\android\\New folder\\Bulk_rename\\app\\build\\intermediates\\res\\merged\\debug\\layout_gggg.xml.flat",
+        "source": "E:\\android\\New folder\\Bulk_rename\\app\\src\\main\\res\\layout\\gggg.xml"
+    }
+]
